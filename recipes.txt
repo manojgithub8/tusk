@@ -1,0 +1,6 @@
+welcome to python world
+
+python 
+SQL
+HTML
+CSS
